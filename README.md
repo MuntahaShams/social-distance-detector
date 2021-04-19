@@ -1,7 +1,4 @@
 # social-distance-detector
-<h1 align="left">
-    Social Distancing Detector
-</h1>
 
 A social distancing detector built with OpenCV using YOLO(COCO model) object detector
 
